@@ -1,0 +1,7 @@
+account_id,engagement_prev,engagement_curr,active_days_prev,active_days_curr,churned
+A1,85,80,5,5,0
+A2,90,60,5,3,1
+A3,70,65,4,4,0
+A4,60,30,4,1,1
+A5,88,85,5,5,0
+A6,50,20,3,1,1
