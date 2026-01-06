@@ -16,7 +16,7 @@ interpreting raw ML outputs.
 
 To avoid alert fatigue, churn probabilities are mapped to alert levels:
 
-- > 80% → Hard Alert (Immediate CS intervention)
+- 80% → Hard Alert (Immediate CS intervention)
 - 60%–80% → Soft Alert (Proactive outreach)
 - 30%–60% → Monitor
 - < 30% → No Action
